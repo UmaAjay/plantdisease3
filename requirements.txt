@@ -1,0 +1,9 @@
+gunicorn
+Flask
+numpy
+pandas
+keras
+tensorflow
+matplotlib
+
+
